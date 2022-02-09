@@ -1,6 +1,6 @@
-38.	# ECommerce Frontend
+38.	# ECommerce Test
 39.	
-40.	This is the angular website based on the rest Api I made in another project . check out the Ecommerce project to get the rest api code .
+40.	This is the angular website with a rest Api .
 41.	
 42.	## Build
 43.	
