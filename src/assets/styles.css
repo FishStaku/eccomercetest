@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+:root {
+--primary_color:#343a40;
+--accent_color:green;
+--background_color:#f0f0f0;
+--button_hover_color:#dddddd;
+
+}
+body{
+background-color: var(--background_color);
+}
+.logo {
+height: 50px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.squaree {
+  float:left;
+  width: 100%;
+  padding-bottom : 100%; /* = width for a 1:1 aspect ratio */
+  margin:0%;
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover; /* you change this to "contain" if you don't want the images to be cropped */
+}
