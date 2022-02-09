@@ -1,15 +1,8 @@
-38.	# ECommerce Test
-39.	
-40.	This is the angular website with a rest Api .
-41.	
-42.	## Build
-43.	
-44.	Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-45.	
-46.	## Running unit tests
-47.	
-48.	Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-49.	
-50.	## Running end-to-end tests
-51.	
-52.	Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+# ECommerce Test
+This is the angular website with a rest Api .
+## Build
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Running unit tests
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Running end-to-end tests
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
